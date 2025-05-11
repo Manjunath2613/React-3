@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "ProductName": "Laptop",
+      "Quantity": 5,
+      "Price": 899.99,
+      "Description": "High-performance laptop with 16GB RAM and 512GB SSD"
+    },
+    {
+      "id": 2,
+      "ProductName": "Smartphone",
+      "Quantity": 10,
+      "Price": 599.99,
+      "Description": "Latest smartphone with 128GB storage and triple camera"
+    },
+    {
+      "id": 3,
+      "ProductName": "Headphones",
+      "Quantity": 20,
+      "Price": 99.99,
+      "Description": "Noise-cancelling wireless headphones"
+    },
+    {
+      "id": 4,
+      "ProductName": "Tablet",
+      "Quantity": 8,
+      "Price": 349.99,
+      "Description": "10-inch tablet with stylus support"
+    },
+    {
+      "id": 5,
+      "ProductName": "Smartwatch",
+      "Quantity": 15,
+      "Price": 199.99,
+      "Description": "Fitness tracker with heart rate monitor"
+    }
+  ]
+}
